@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Laboratory_5_Fedeiko</string>
+    <string name="ex1name">Some</string>
+    <string name="ex1fn">Some</string>
+    <string name="ex1em">some1@some.some</string>
+    <string name="ex1Id">1</string>
+    <string name="ex1">Some</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="email_hint">E-mail</string>
+    <string name="edit_user">🏵 Edit User 🏵</string>
+    <string name="delete">DELETE</string>
+    <string name="save">SAVE</string>
+    <string name="add_new_user">Add new user</string>
+    <string name="refresh_data">Refresh data</string>
+</resources>
